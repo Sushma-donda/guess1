@@ -1,0 +1,10 @@
+body{
+    background-image: url(guess2.jpg);
+}
+.container{
+    text-align: center;
+    font-style: italic;
+    color:darkred;
+    background-color: aliceblue;
+    margin-top: 220px;
+}
